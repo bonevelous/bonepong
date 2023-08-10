@@ -1,0 +1,4 @@
+bonepong
+*.o
+*.so
+*.a
